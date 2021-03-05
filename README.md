@@ -35,5 +35,17 @@ Learn how to use descriptive statistics to understand your data. I recommend usi
 
 ## Day 5 - Machine Learning Mastery:
 
+Second way to improve your **understanding of your data** is by using **data visualization** techniques (e.g. plotting).
+
+Learn how to use plotting in Python to understand **attributes** alone and their interactions. Again, I recommend using the **helper functions** provided on the Pandas DataFrame.
+
+--> Use the **hist()** function to create a histogram of each attribute.
+
+--> Use the **plot(kind=’box’)** function to create box-and-whisker plots of each attribute.
+
+--> Use the **pandas.scatter_matrix()** function to create pairwise scatterplots of all attributes.
+
+## Day 6 - Machine Learning Mastery:
+
 
 
