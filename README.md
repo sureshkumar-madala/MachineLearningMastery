@@ -6,3 +6,7 @@ Installation of Anaconda, ( which includes python and required default packages 
 
 Checking the installed versions in jupyter notebook.
 
+## Day 2 - Machine Learning Mastery:
+
+Creating a Dataframe
+
