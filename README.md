@@ -10,3 +10,10 @@ Checking the installed versions in jupyter notebook.
 
 Creating a Dataframe
 
+## Day 3 - Machine Learning Mastery:
+
+Load data from CSV files ( use standard ML datasets)
+
+UCI machine learning repository: 
+http://archive.ics.uci.edu/ml/index.php
+
