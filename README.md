@@ -19,9 +19,9 @@ http://archive.ics.uci.edu/ml/index.php
 
 ## Day 4 - Machine Learning Mastery:
 
-first step to understanding your data is to use descriptive statistics.
+First step to **understanding your data** is to use **descriptive statistics**.
 
-Learn how to use descriptive statistics to understand your data. I recommend using the helper functions provided on the Pandas DataFrame.
+Learn how to use descriptive statistics to understand your data. I recommend using the **helper functions** provided on the **Pandas** DataFrame.
 
 --> Understand your data using the **head()** function to look at the first few rows.
 
