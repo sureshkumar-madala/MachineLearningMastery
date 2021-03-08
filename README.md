@@ -48,4 +48,19 @@ Learn how to use plotting in Python to understand **attributes** alone and their
 ## Day 6 - Machine Learning Mastery:
 
 
+Your raw data may not be setup to be in the best shape for modeling.
+
+Sometimes you need to preprocess your data in order to best present the inherent structure of the problem in your data to the modeling algorithms. 
+In today’s lesson, you will use the pre-processing capabilities provided by the scikit-learn.
+
+The scikit-learn library provides two standard idioms for transforming data. Each transform is useful in different circumstances: 
+**Fit and Multiple Transform** and **Combined Fit-And-Transform**.
+
+There are many techniques that you can use to prepare your data for modeling. For example, try out some of the following
+
+* Standardize numerical data (e.g. mean of 0 and standard deviation of 1) using the scale and center options.
+* Normalize numerical data (e.g. to a range of 0-1) using the range option.
+* Explore more advanced feature engineering such as Binarizing.
+
+For example, the snippet below loads the Pima Indians onset of diabetes dataset, calculates the parameters needed to standardize the data, then creates a standardized copy of the input data.
 
