@@ -93,4 +93,22 @@ You can specify the metric used for your test harness in scikit-learn via the **
 
 The snippet below demonstrates calculating the LogLoss metric on the Pima Indians onset of diabetes dataset.
 
+## Day 9 - Machine Learning Mastery:
+
+**Spot-Check Algorithms**
+
+You cannot possibly know which algorithm will perform best on your data beforehand.
+
+You have to discover it using a process of trial and error. I call this spot-checking algorithms. 
+The scikit-learn library provides an interface to many machine learning algorithms and tools to compare the estimated 
+accuracy of those algorithms.
+
+In this lesson, you must practice spot checking different machine learning algorithms.
+
+* Spot check linear algorithms on a dataset (e.g. linear regression, logistic regression and linear discriminate analysis).
+* Spot check some non-linear algorithms on a dataset (e.g. KNN, SVM and CART).
+* Spot-check some sophisticated ensemble algorithms on a dataset (e.g. random forest and stochastic gradient boosting).
+
+For example, the snippet below spot-checks the K-Nearest Neighbors algorithm on the Boston House Price dataset.
+
 
