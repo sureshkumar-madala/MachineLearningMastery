@@ -111,4 +111,19 @@ In this lesson, you must practice spot checking different machine learning algor
 
 For example, the snippet below spot-checks the K-Nearest Neighbors algorithm on the Boston House Price dataset.
 
+## Day 10 - Machine Learning Mastery:
+
+**Model Comparison and Selection**
+
+Now that you know how to spot check machine learning algorithms on your dataset, you need to know how to compare the estimated performance of different algorithms and select the best model.
+
+You will practice comparing the accuracy of machine learning algorithms in Python with scikit-learn.
+
+* Compare linear algorithms to each other on a dataset.
+* Compare nonlinear algorithms to each other on a dataset.
+* Compare different configurations of the same algorithm to each other.
+* Create plots of the results comparing algorithms.
+* 
+The example below compares Logistic Regression and Linear Discriminant Analysis to each other on the Pima Indians onset of diabetes dataset.
+
 
