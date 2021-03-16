@@ -126,4 +126,20 @@ You will practice comparing the accuracy of machine learning algorithms in Pytho
 * 
 The example below compares Logistic Regression and Linear Discriminant Analysis to each other on the Pima Indians onset of diabetes dataset.
 
+## Day 11 - Machine Learning Mastery:
+
+**Improve Accuracy with Algorithm Tuning**
+
+Once you have found one or two algorithms that perform well on your dataset, you may want to improve the performance of those models.
+
+One way to increase the performance of an algorithm is to tune its parameters to your specific dataset.
+
+The scikit-learn library provides two ways to search for combinations of parameters for a machine learning algorithm. Your goal in today’s lesson is to practice each.
+
+* Tune the parameters of an algorithm using a grid search that you specify.
+* Tune the parameters of an algorithm using a random search.
+
+The snippet below uses is an example of using a grid search for the Ridge Regression algorithm on the Pima Indians onset of diabetes dataset.
+
+## Day 12 - Machine Learning Mastery:
 
