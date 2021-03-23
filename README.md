@@ -175,6 +175,6 @@ For example, the snippet below shows how you can create a Logistic Regression mo
 HelloWorld Project
 
 
-Source Link:
+**Source Link:**
 
-https://machinelearningmastery.com/python-machine-learning-mini-course/
+**https://machinelearningmastery.com/python-machine-learning-mini-course/**
