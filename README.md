@@ -157,3 +157,18 @@ In this lesson, you will practice using ensemble methods.
 
 The snippet below demonstrates how you can use the Random Forest algorithm (a bagged ensemble of decision trees) on the Pima Indians onset of diabetes dataset.
 
+## Day 13 - Machine Learning Mastery:
+
+**Finalize And Save Your Model**
+
+Once you have found a well-performing model on your machine learning problem, you need to finalize it.
+
+In this lesson, you will practice the tasks related to finalizing your model.
+
+* Practice making predictions with your model on new data (data unseen during training and testing).
+* Practice saving trained models to file and loading them up again.
+
+For example, the snippet below shows how you can create a Logistic Regression model, save it to file, then load it later and make predictions on unseen data.
+
+## Day 14 - Machine Learning Mastery:
+
