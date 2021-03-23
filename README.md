@@ -172,3 +172,9 @@ For example, the snippet below shows how you can create a Logistic Regression mo
 
 ## Day 14 - Machine Learning Mastery:
 
+HelloWorld Project
+
+
+Source Link:
+
+https://machinelearningmastery.com/python-machine-learning-mini-course/
